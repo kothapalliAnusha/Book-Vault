@@ -1,0 +1,54 @@
+.b .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+.b .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+ .b .swiper-slide:nth-child(1n) {
+    background-image: url(src/assets/banner-books/BOOK2.jpg);
+  }
+  
+.b .swiper-slide:nth-child(2n) {
+    background-image: url(src/assets/banner-books/BOOK1.jpg);
+  }
+  
+.b .swiper-slide:nth-child(3n) {
+    background-image: url(src/assets/banner-books/BOOK3.jpg);
+  }
+  
+ .b  .swiper-slide:nth-child(4n) {
+    background-image: url(src/assets/banner-books/BOOK4.jpg);
+  }
+ .b .swiper-slide:nth-child(5n) {
+    background-image: url(src/assets/banner-books/BOOK5.jpg);
+  }
+  
+ .b .swiper-slide:nth-child(6n) {
+    background-image: url(src/assets/banner-books/BOOK6.jpg);
+  }
+  
+  .b .swiper-slide:nth-child(7n) {
+    background-image: url(src/assets/banner-books/BOOK7.jpg);
+  }
+  
+  .b .swiper-slide:nth-child(8n) {
+    background-image: url(src/assets/banner-books/BOOK8.jpg);
+  }
+  
+ .b  .swiper-slide:nth-child(9n) {
+    background-image: url(src/assets/banner-books/BOOK9.jpg);
+  }
+  
+  .b .swiper-slide:nth-child(10n) {
+    background-image: url(src/assets/banner-books/BOOK10.jpg);
+  }
+  
